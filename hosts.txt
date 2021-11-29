@@ -1,0 +1,5 @@
+www.google.com.br
+8.8.8.8
+www.uol.com.br
+www.globo.com
+4.4.4.4
